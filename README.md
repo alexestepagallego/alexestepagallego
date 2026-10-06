@@ -1,6 +1,6 @@
 # Hola, soy Alejandro 👋
 
-Estudiante de **Ingeniería Informática** en España. Programo en **C y C++**, y con **PuntoZero** (Córdoba) creo webs, cartas digitales
+Estudiante de **Ingeniería Informática** en Córdoba, España. Programo en **C y C++**, y con **PuntoZero** (Córdoba) creo webs, cartas digitales
 QR y software a medida para negocios locales, apoyándome en IA para construir
 rápido y entregar productos reales a clientes reales.
 
