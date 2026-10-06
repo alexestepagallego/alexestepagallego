@@ -1,6 +1,6 @@
 # Hola, soy Alejandro 👋
 
-Programo en **C y C++**, y con **PuntoZero** (Córdoba) creo webs, cartas digitales
+Estudiante de **Ingeniería Informática** en España. Programo en **C y C++**, y con **PuntoZero** (Córdoba) creo webs, cartas digitales
 QR y software a medida para negocios locales, apoyándome en IA para construir
 rápido y entregar productos reales a clientes reales.
 
@@ -10,7 +10,7 @@ rápido y entregar productos reales a clientes reales.
 - 🗂️ CRM propio: clientes, proyectos, cobros y portal de cliente
 
 ## Cómo trabajo
-- Base: **C / C++**
+- Base: **C / C++** (Ingeniería Informática)
 - Web: HTML, CSS, JavaScript, Astro, GSAP (desarrollo asistido por IA con Claude Code)
 
 ## Proyectos destacados
